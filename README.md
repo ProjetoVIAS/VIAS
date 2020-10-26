@@ -37,14 +37,12 @@ SOLUÇÃO/BENEFÍCIOS
 
 MÉTODOS
 
-Automatização do processo de coleta:
     • Implementação de câmeras e sensores nos veículos que possibilitem a aplicação reconhecer automaticamente, através do uso de inteligencia artificial, as variáveis observadas nas vias; 
     • Desenvolvimento de aplicação multiplataforma que permita a coleta de dados obtidos pelos pesquisadores nas rodovias brasileiras;
     • Atribuir ao pesquisador o papel de validar as informações geradas automaticamente pelos veículos equipados com sensores e fornecida pelos usuários comuns; 
-Expansão do processo de coleta:
     • Fechar parcerias com empresas de transporte rodoviário, para a instalação de sensores e câmeras nos veículos de transporte das empresas, com o objetivo de criar mais um mecanismo para a coleta de dados, permitindo que a empresa possa contribuir para uma melhor analise da situação da malha rodoviária, obtendo assim uma informação mais precisa e atualizada dos trajetos disponíveis, impactando diretamente na qualidade dos serviços prestados e recursos financeiros da empresa;
     • Permitir ao usuário reportar pontos criticos e demais variáveis simples identificadas nas rodovias, fornecendo a eles, acesso a aplicação mobile que permita o preenchimento das informações necessárias para a pesquisa;
-Permitir ao usuário, não só, contribuir com informações para a pesquisa, mas também, ter acesso facilitado as informações obtidas:
+    • Permitir ao usuário, não só, contribuir com informações para a pesquisa, mas também, ter acesso facilitado as informações obtidas;
     • Desenvolvimento de mecanismos que permita a atualização periódica das informações geradas.
 
 APLICAÇÕES
