@@ -1,0 +1,54 @@
+body{
+    color: white;
+    background-image: url(/HomeDesktop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+    padding-top: 200px;
+    font-style: bold;
+    font-size: 50px;
+}
+
+#area-login{
+    padding-right: 800px;
+    text-align: center;
+}
+
+input{
+    width: 450px;
+    color: white;
+    text-align: left;
+    border: 0;
+    border-bottom: solid white 2px;
+    background-color: transparent;
+}
+
+::placeholder{
+    color: white;
+}
+
+#in-login{
+    color: white;
+    padding-left: 120px;
+    text-align: left;
+}
+#in-senha{
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 120px;
+    padding-bottom: 30px;
+}
+
+label {
+    text-align: left;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.btn{
+    border-radius: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
